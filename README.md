@@ -28,9 +28,22 @@ Pulsera-metrónomo háptico.
 - [Grupo de Telegram](https://http://t.me/MetroNemo)
 
 ### Batería & Shiva
+Tucupá
 
 - [GitHub Shiva](https://github.com/UC3Music/Shiva)
 
 - [GitHub Batería](https://github.com/UC3Music/electrotupah)
 
 - [Grupo de Telegram](https://http://t.me/DrumsUC3Music)
+
+### Altavocees
+Diseño y construcción de altavoces.
+
+- [Proyecto en GitHub](https://github.com/UC3Music/Altavoces)
+- [Grupo de Telegram](https://t.me/altavocesUC3Music)
+
+### TubeScreamer
+Un pedal de guitarra para darle crunchy al asunto
+
+- [Proyecto en GitHub](https://github.com/UC3Music/IceScreamer)
+- [Grupo de Telegram](https://t.me/Ice_Screamer)
